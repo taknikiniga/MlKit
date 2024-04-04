@@ -24,6 +24,6 @@ ML Kit Features (Replace with the specific features included in your repository)
 - Landmark Recognition
 
 **Basic understanding of Android development**
-Familiarity with Firebaase and ML Kit : https://developers.google.com/ml-kit
+Familiarity with Firebase and ML Kit : https://developers.google.com/ml-kit
 
   
