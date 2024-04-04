@@ -17,17 +17,13 @@ Modularity: Well-structured code modules for better organization and reusability
 Testing: Unit tests to ensure the correctness and reliability of the code.
 ML Kit Features (Replace with the specific features included in your repository):
 
-Face Detection
-Text Recognition
-Barcode Scanning
-Image Labeling  
-Landmark Recognition
+- Face Detection
+- Text Recognition
+- Barcode Scanning
+- Image Labeling  
+- Landmark Recognition
 
 **Basic understanding of Android development**
-Familiarity with Firebaase and ML Kit (consider adding links to official documentation)
-
-In this repository you will get all mlkit feature source code which video is on my youtube channel 
-
-Playlist : 
+Familiarity with Firebaase and ML Kit : https://developers.google.com/ml-kit
 
   
